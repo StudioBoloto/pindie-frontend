@@ -7,6 +7,8 @@
 **IP адрес сервера:** 158.160.18.234
 
 **Frontend:** [https://diepin.nomoredomainswork.ru](https://diepin.nomoredomainswork.ru)
+**Backend:** [https://api.diepin.nomoredomainswork.ru](https://api.diepin.nomoredomainswork.ru)
+
 
 ## Способ подключения
 
